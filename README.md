@@ -2,29 +2,21 @@
 //Programs
 ////////////////////////////////////////////////////////////////////
 //A - Currency Arbitrage, Choose UtoU or BtoB arbitrage through L  - This should be fixed and tested 
-
 //B - Portfolio Balancing, Maintain 50% of two currencies at all times - Alpha what is this?
-
 //C - Custom trailing/advancing sell/sell bot for gna - Alpha what is this ?
-
 //D - Buy Down, Buy 1/2 spread each .5 drop and sell 1 each $1 gain - microroll, is this a bug fix?
-
 //E - Rolling sell/sell on dips and spikes V1,1.1,1.2,V2,2.1 - microroll, another todo list?
-
 //F - 24 Hour high/low balancing bot, maintain (high-last)/(high-low) balance in USD and (last-low)/(high-low) in BTC - do we want this ?
-
 //G - EMA triggered rolling with Fibonacci shares and high/low balancing combination with micro-trade re-balancing.
 This appears to be on wish list, need this ? what other bits do we need to supply and test about this ?
-
 //H - Custom Rolling bot based on dynamic thresholds, Is this apart of the micro roll engine?
-
 //I - Micro-Trade rolling bot with variable buy and sell orders and iterations
-
 //J - Revamped micro-rebalance engine added as option - balances based on distance to high low, microroll  bug fix?
 
 ////////////////////////////////////////////////////////////////////
 
 todo list? lets amend these ?
+
 //Advance and Tail last price with orders ( commision + profit/2 )
 //Set order amounts to min < all < max
 //Buy as price falls
